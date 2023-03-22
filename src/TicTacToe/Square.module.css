@@ -1,0 +1,22 @@
+.square {
+  height: 100px;
+  width: 100%;
+  background-color: #000000;
+  padding: 1rem;
+  margin: 0.5rem;
+  border-radius: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.square:hover {
+  background-color: #757575;
+}
+h5 {
+  color: white;
+  font-size: 4rem;
+}
+h5:hover {
+  color: #689f38;
+}

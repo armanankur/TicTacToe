@@ -1,0 +1,26 @@
+.container {
+  margin: 5rem;
+}
+
+.board_row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+h1 {
+  font-size: 2rem;
+  color: green;
+}
+
+span {
+  font-size: 1rem;
+  color: #37474f;
+}
+button {
+  font-size: 1.5rem;
+  height: 50px;
+  width: 200px;
+  background-color: #e91e63;
+  color: white;
+  border-radius: 12px;
+}
